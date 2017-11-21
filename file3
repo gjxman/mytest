@@ -1,1 +1,5 @@
 test3-hello-java
+
+public static void main()
+{
+}
